@@ -15,7 +15,7 @@
 # 💀 WHOAMI
 
 ```bash
-┌──(root㉿nitish)-[~/system]
+┌──(root㉿priyanka)-[~/system]
 └─$ whoami
 
 Name     : Priyanka Chandrakar
@@ -31,7 +31,7 @@ Status   : Hack The Planet ⚡
 # 🧠 ABOUT ME
 
 ```python
-class NitishKumar:
+class Priyanka Chandrakar:
 
     def __init__(self):
         self.name = "Priyanka Chandrakar"
