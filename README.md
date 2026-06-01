@@ -189,7 +189,7 @@ class Priyanka Chandrakar:
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/priyanka-chandrakar-b21630265/">
+<a href="https://www.linkedin.com/in/priyankachandrakar/">
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
